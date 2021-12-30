@@ -1,37 +1,34 @@
 # counts
 
 #### 介绍
-swing构建的windows桌面版统计小程序，可对excel按照列进行统计，支持批量excel统计和可视化与数据导出
+swing构建的windows桌面版统计小程序，实现对Excel按列进行Excel出现次数进行统计，可对excel按照列进行统计，支持对批量excel统计和可视化与数据导入导出
+
+#### 适用场景
+1、有一堆Excel文件需要统计排名、出现次数，例如线下投票等
+
+2、线下需要对某一组数据各自出现次数进行统计
+
 
 #### 软件架构
-软件架构说明
+软件采用JAVA进行开发，图形化Swing，内置H2数据库
+
 
 
 #### 安装教程
+1、下载发行版本安装包、直接点击安装运行即可
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+2、下载项目，运行Application启动类
+
 
 #### 使用说明
+安装/运行程序后点击可视化，创建项目，点击导入，选择excel文件进行解析即可
 
-1.  xxxx
-2.  xxxx
-3.  xxx
+#### 关于作者
 
-#### 参与贡献
+作者：sirwsl
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+博客：https://www.wslhome.top
 
+CSDN: https://blog.csdn.net/qq_40432886
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+E-Mail: sirwsl@163.com
